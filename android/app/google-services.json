@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "263063310271",
+    "project_id": "websit-cameras",
+    "storage_bucket": "websit-cameras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263063310271:android:83ce01638990f4d3051b0a",
+        "android_client_info": {
+          "package_name": "com.example.scurity_system_offfers1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263063310271-i02ualicqgkht346354t9qqt4er6v7qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnf0d0uarT9uwS_p37rJ5SaNC8r0BQ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263063310271-i02ualicqgkht346354t9qqt4er6v7qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263063310271:android:f53df941326f7147051b0a",
+        "android_client_info": {
+          "package_name": "com.example.scurity_systems_offers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263063310271-i02ualicqgkht346354t9qqt4er6v7qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnf0d0uarT9uwS_p37rJ5SaNC8r0BQ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263063310271-i02ualicqgkht346354t9qqt4er6v7qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.scurity_system_offfers1",
+            "sha256_cert_fingerprints": ["3C:3F:9F:7A:D0:A4:C1:07:97:12:88:CD:AD:B6:52:40:DD:45:C9:C3:EB:7E:16:14:CE:35:A9:DF:70:27:80:D4"]
+        }
+    }
+]

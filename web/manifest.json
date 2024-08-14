@@ -1,0 +1,35 @@
+{
+    "name": "مؤسسة عروض الأنظمة الأمنية",
+    "short_name": "مؤسسة عروض الأنظمة الأمنية",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "مؤسسة متخصصة في بيع وتركيب أنظمة الأمن ",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "../assets/camer192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/camer512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/camer192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "../assets/camer512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
